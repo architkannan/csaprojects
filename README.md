@@ -10,15 +10,15 @@
  
 ### ✅ The Solution
 I built a demo **Streamlit dashboard** that:
-- Displays projects + tasks in card layout
-- Highlights key details (status, start/end dates, priority)
-- Uses static CSV datasets from ERPNext
+- Displays projects + tasks in card layout.
+- Highlights key details (status, start/end dates, priority).
+- Uses static CSV datasets from ERPNext.
 
 
 ### 🌟 Impact
-- Clear visibility into all open and closed projects  
-- Faster prioritization and easier decision-making  
-- Lightweight, intuitive design as a makeshift solution
+- Clear visibility into all open and closed projects.  
+- Faster prioritization and easier decision-making.  
+- Lightweight, intuitive design as a makeshift solution.
 
 ### 🛠 Tech Stack
 - Python  
