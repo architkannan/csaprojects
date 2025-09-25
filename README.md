@@ -1,16 +1,44 @@
 # CSA Projects and Tasks Dashboard
 
-This demo dashboard was built with **Python** using Streamlit to track CSA’s (client) projects and tasks. It provides a clear view of all projects (open and closed) along with their linked tasks, highlighting key details such as status, start date, end date, and priority.
+***A lightweight Streamlit dashboard to visualize projects and tasks at a glance.***
 
-To ensure the information can be absorbed easily at a glance, the dashboard uses a card-based layout for neatness and quick readability.
+### ❗The Problem
 
-The dashboard uses static CSV datasets sourced from a dedicated ERPNext instance set up for CSA's projects. It was designed as a **makeshift solution** until a more robust platform for project and task tracking is adopted.
+- CSA (the customer) lacked a user-friendly way to track projects and tasks.
+- ERPNext reports and exports existed, but weren’t easy to navigate → leading to low usability.
+- CSA needed a simple interim solution until a full project management system could be adopted.
+
+ 
+### ✅ The Solution
+I built a **Streamlit dashboard** that:
+- Displays projects + tasks in card layout
+- Highlights key details (status, start/end dates, priority)
+- Uses static CSV datasets from ERPNext
+
+
+### 🌟 Impact
+- Clear visibility into all open and closed projects  
+- Faster prioritization and easier decision-making  
+- Lightweight, intuitive design as a makeshift solution
+
+### 🛠 Tech Stack
+- Python  
+- Streamlit  
+- Pandas  
+- CSV/ERPNext 
+ 
 
 ---
 
 ## Dashboard
 
-<img src="https://github.com/architkannan/csaprojects/blob/main/Project-Tasks%20Dashboard.gif?raw=true" width="1000" height="auto" />
 
-**Link to Projects-Tasks Demo Dashboard: https://csaprojects.streamlit.app/**
+🚀 [**Live Demo Dashboard**](https://csaprojects.streamlit.app/)
+> ⚡ *Note: The app takes a few seconds to load if it’s waking up from sleep.*
+
+
+![Demo of CSA Projects and Tasks Dashboard](https://github.com/architkannan/csaprojects/blob/main/Project-Tasks%20Dashboard.gif?raw=true)
+
+
+
 
