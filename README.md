@@ -9,7 +9,7 @@
 
  
 ### ✅ The Solution
-I built a demo **Streamlit dashboard** that:
+I built a demo Streamlit dashboard (for demonstration; not deployed to production) that:
 - Displays projects + tasks in card layout.
 - Highlights key details (status, start/end dates, priority).
 - Uses static CSV datasets from ERPNext.
