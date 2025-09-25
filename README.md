@@ -2,10 +2,13 @@
 
 ***A lightweight Streamlit dashboard to visualize projects and tasks at a glance.***
 
+
 ### ❗The Problem
 - CSA (the customer) lacked a user-friendly way to track projects and tasks.
 - ERPNext reports and exports existed, but weren’t easy to navigate → leading to low usability.
 - CSA needed a simple interim solution until a full project management system could be adopted.
+
+---
 
  
 ### ✅ The Solution
@@ -15,17 +18,24 @@ I built a demo **Streamlit dashboard** (for demonstration; not deployed to produ
 - Uses static CSV datasets from ERPNext.
 
 
+---
+
+
 ### 🌟 Impact
 - Clear visibility into all open and closed projects.  
 - Faster prioritization and easier decision-making.  
 - Lightweight, intuitive design as a makeshift solution.
 
+
+---
+
+
 ### 🛠 Tech Stack
 - Python  
 - Streamlit  
 - Pandas  
-- CSV/ERPNext 
- 
+- CSV/ERPNext
+
 
 ---
 
