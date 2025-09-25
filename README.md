@@ -3,14 +3,13 @@
 ***A lightweight Streamlit dashboard to visualize projects and tasks at a glance.***
 
 ### ❗The Problem
-
 - CSA (the customer) lacked a user-friendly way to track projects and tasks.
 - ERPNext reports and exports existed, but weren’t easy to navigate → leading to low usability.
 - CSA needed a simple interim solution until a full project management system could be adopted.
 
  
 ### ✅ The Solution
-I built a **Streamlit dashboard** that:
+I built a demo **Streamlit dashboard** that:
 - Displays projects + tasks in card layout
 - Highlights key details (status, start/end dates, priority)
 - Uses static CSV datasets from ERPNext
