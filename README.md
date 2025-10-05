@@ -4,7 +4,7 @@
 
 
 ### ❗The Problem
-- CSA (the customer) lacked a user-friendly way to track projects and tasks.
+- CSA (the client) lacked a user-friendly way to track projects and tasks.
 - ERPNext reports and exports existed, but weren’t easy to navigate → leading to low usability.
 - CSA needed a simple interim solution until a full project management system could be adopted.
 
