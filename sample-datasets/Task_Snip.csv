@@ -32,10 +32,10 @@ TASK-2025-04035,Developing an Integrated Data Warehouse and Robust Dashboarding 
 Support business growth by identifying trends, anomalies, and opportunities.
 Align day-to-day operations with long-term strategic planning.",Engagement and sign-off from CSA stakeholders,Task is ongoing,"Data Quality and Integration Issues: Inconsistent or incomplete data from multiple sources (ERP modules and manual spreadsheets) could lead to inaccurate or misleading KPIs.
 
-Performance and Scalability Challenges: Real-time data processing may face latency or system overload if the ETL pipelines and infrastructure aren’t robust enough to handle high-frequency updates.
+Performance and Scalability Challenges: Real-time data processing may face latency or system overload if the ETL pipelines and infrastructure arenÂ’t robust enough to handle high-frequency updates.
 
 User Adoption and Change Management: Without adequate training and stakeholder buy-in, users may resist the new dashboard, limiting its effectiveness in driving data-informed decisions.","Implement robust data validation and reconciliation processes in your ETL pipelines to catch and correct anomalies early.
-Design ETL processes and dashboard architecture with scalability in mind—leverage cloud-based solutions, caching, and load balancing.
+Design ETL processes and dashboard architecture with scalability in mindÂ—leverage cloud-based solutions, caching, and load balancing.
 Conduct regular performance and stress testing to identify bottlenecks and optimize query efficiency.
 Monitor system performance in real time with alerts to quickly address latency or overload issues.
 Provide comprehensive training, detailed documentation, and ongoing support to ease the transition.
