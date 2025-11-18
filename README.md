@@ -45,6 +45,8 @@ I built a demo **Streamlit dashboard** (for demonstration; not deployed to produ
 🚀 [**Live Demo Dashboard**](https://csaprojects.streamlit.app/)
 > ⚡ *Note: The app takes a few seconds to load if it’s waking up from sleep.*
 
+![CSA ProjectsTasks Dashboard](https://github.com/architkannan/Kisan-Mitra-Demo-v1.2/blob/main/Kisan%20Mitra%20Dashboard.gif)
+
 
 ![Demo of CSA Projects and Tasks Dashboard](https://github.com/architkannan/csaprojects/blob/main/Project-Tasks%20Dashboard.gif?raw=true)
 
